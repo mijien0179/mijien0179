@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mijien0179)](https://solved.ac/mijien0179)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mijien0179&layout=compact&theme=dark)
+
+* [문제 풀이](https://github.com/mijien0179/PS)
+
+### Project
+* [PCTORY](https://github.com/mijien0179/PCTORY)
